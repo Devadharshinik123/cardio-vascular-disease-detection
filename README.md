@@ -23,3 +23,5 @@ Cardiovascular Disease Detection is a project designed to identify or predict th
 - Download and place the cardiovascular dataset (CSV or similar) in a designated folder
 - Run the Project
 
+## Dataset Acknowledgment
+This project utilizes the cardiovascular disease dataset provided by Corizo as part of their AI domain program. I am grateful for the opportunity to work with this dataset to enhance my skills in data analysis and machine learning.
